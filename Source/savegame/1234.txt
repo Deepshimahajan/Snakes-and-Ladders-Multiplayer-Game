@@ -1,0 +1,3 @@
+docs/SNL1
+Player 2;1;2
+Player 1;8;1

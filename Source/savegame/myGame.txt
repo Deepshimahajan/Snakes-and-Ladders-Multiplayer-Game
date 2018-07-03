@@ -1,0 +1,4 @@
+docs/SNL7
+Player 3;5;3
+Player 1;14;1
+Player 2;16;2
