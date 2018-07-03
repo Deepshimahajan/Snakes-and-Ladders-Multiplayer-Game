@@ -2,8 +2,6 @@ README.txt
 
 SNAKES AND LADDERS
 
-Group: 8
-
 JDK Used: Java 10.0.1 build 10
 IDE Used: IntelliJ IDEA 2018.1
 Main File: Main.java
